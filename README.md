@@ -3,6 +3,7 @@ A collection of web development project , each built from detailed Figma designs
 
 ## Projects :
 - [Attendence](https://www.figma.com/community/file/1115365433408619440)
+- [AI-chat app](https://www.figma.com/community/file/1392823164800309153/botbuzz-ai-chat-app)
 - [Blog Website](https://www.figma.com/community/file/1319753406624336081)
 - [Banking company website](https://www.figma.com/community/file/1298887728670431393)
 - [Digital agency](https://www.figma.com/community/file/1305400086109606332)
