@@ -6,6 +6,7 @@ A collection of web development project , each built from detailed Figma designs
 - [AI-chat app](https://www.figma.com/community/file/1392823164800309153/botbuzz-ai-chat-app)
 - [Blog Website](https://www.figma.com/community/file/1319753406624336081)
 - [Banking company website](https://www.figma.com/community/file/1298887728670431393)
+- [E-commerce website](https://www.figma.com/design/6WiWP6T2Rr1qzSZ2ucnOth/E-commerce-Website-Template-(Freebie)-(Community))
 - [Digital agency](https://www.figma.com/community/file/1305400086109606332)
 - [Figma arena](https://www.figma.com/community/file/1205710290539464575)
 - [OTT](https://www.figma.com/community/file/1294589591426976269)
